@@ -2,7 +2,7 @@
 
 ## Instalation
 
-To install files onto your local device, clone the repository to your local drive. Update your repository by pulling (git pull) any new content which may be added or updated.
+To install the files onto your local device, clone the repository to your local drive. Update your repository, by pulling (git pull) any new content which may be added or updated.
 
 ## Decsription
 
